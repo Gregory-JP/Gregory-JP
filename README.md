@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Gregory-JP/Gregory-JP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Gregory and I'm 20. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Big fan of technologies and everything that can bring good to the world and people. Great defensor of nature 🍂
 
-Here are some ideas to get you started:
+- 🎓 I’m currently studying Information Systems at FURG (3/4)
+- 🌱 I’m currently learning PyTorch, PowerBI and how to improve my data analisys skills.
+- 📚 I'm currently reading Storytelling with Data.
+- ⚡ Fun fact: I'm a great fan of LOTR and The Hobbit, my childhood dream was to be an astronaut and I'm a big fan of Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python JupyterNotebook 
+
+- 📫 How to reach me:
+  - [Instagram](https://www.instagram.com/gregory_j_pitthan/)
+  - [Linkedin](https://www.linkedin.com/in/gregory-jasson-pitthan-81989921b/)
+  - [Email](pitthangregory@gmail.com)
