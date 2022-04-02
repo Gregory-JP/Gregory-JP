@@ -18,3 +18,5 @@ My name is Gregory and I'm 20. Information Systems student at [Universidade Fede
   - [Instagram](https://www.instagram.com/gregory_j_pitthan/)
   - [Linkedin](https://www.linkedin.com/in/gregory-jasson-pitthan-81989921b/)
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-jp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
