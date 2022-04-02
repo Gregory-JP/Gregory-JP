@@ -17,4 +17,4 @@ My name is Gregory and I'm 20. Information Systems student at [Universidade Fede
 - 📫 How to reach me:
   - [Instagram](https://www.instagram.com/gregory_j_pitthan/)
   - [Linkedin](https://www.linkedin.com/in/gregory-jasson-pitthan-81989921b/)
- 
+---
