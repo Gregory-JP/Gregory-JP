@@ -15,8 +15,14 @@ My name is Gregory and I'm 20. Information Systems student at [Universidade Fede
 
 ---
 - 📫 How to reach me:
-  - [Instagram](https://www.instagram.com/gregory_j_pitthan/)
-  - [Linkedin](https://www.linkedin.com/in/gregory-jasson-pitthan-81989921b/)
+<div>
+<a href="https://instagram.com/gregory_j_pitthan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gregory-jasson-pitthan-81989921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:pitthangregory@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UChSuDK3V9xK7zirCLNoJ5Pw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-jp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
