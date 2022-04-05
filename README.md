@@ -26,6 +26,9 @@ My name is Gregory and I'm 20. Information Systems student at [Universidade Fede
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-jp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Gregory-JP">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-jp&layout=compact&theme=dark"/>
+</div>
 
----
+ ---
