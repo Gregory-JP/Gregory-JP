@@ -4,7 +4,7 @@
 
 ### About me 🙂
 
-My name is Gregory and I'm 20. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Big fan of technologies and everything that can bring good to the world and people. Great defensor of nature 🍂
+My name is Gregory and I'm 20. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Big fan of technologies and everything that can bring good to the world and people. 🌎🍃
 
 - 🎓 I’m currently studying Information Systems at FURG (3/4)
 - 🌱 I’m currently learning PyTorch, PowerBI and how to improve my data analisys skills.
