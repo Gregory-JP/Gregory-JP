@@ -9,7 +9,7 @@ My name is Gregory and I'm 21. Information Systems student at [Universidade Fede
 - 🎓 I’m currently studying Information Systems at FURG (3/4)
 - 🌱 I’m currently learning PyTorch, PowerBI and how to improve my data analysis skills.
 - 📚 I'm currently reading Storytelling with Data.
-- ⚡ Fun fact: I'm a great fan of LOTR and The Hobbit, my childhood dream was to be an astronaut and I'm a big fan of Artificial Intelligence.
+- ⚡ Fun fact: I'm a great fan of LOTR and The Hobbit, my childhood dream was to be an astronaut and I'm a big fan of Artificial Intelligence, especially Neural Networks.
 
 ### Toolbox 🧰
 ---
