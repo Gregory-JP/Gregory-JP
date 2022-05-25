@@ -7,14 +7,15 @@
 My name is Gregory and I'm 21. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and everything that can bring good to the world and to people. 🌎🍃
 
 - 🎓 I’m currently studying Information Systems at FURG (3/4)
-- 🌱 I’m currently learning PyTorch, PowerBI and how to improve my data analysis skills.
-- 📚 I'm currently reading Storytelling with Data.
+- 🌱 I’m currently learning TensorFlow, PowerBI, R and always trying to improve my data analysis skills.
+- 📚 I'm currently reading Storytelling with Data and All of Statistics.
 - ⚡ Fun fact: I'm a great fan of LOTR and The Hobbit, my childhood dream was to be an astronaut and I'm a big fan of Artificial Intelligence, especially Neural Networks.
 
 ### Toolbox 🧰
 ---
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='python' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter noteboook' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg' alt='python torch' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' alt='pandas' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' alt='numpy' width='45' height='45'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png' alt='scikit learn' width='55' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' alt='mysql' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' width='45' height='45'> <img src='https://img.icons8.com/dusk/452/power-bi.png' alt='power bi' width='45' height='45'>
-<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensoflow' width='45' height='45'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='python' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter noteboook' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' alt='pandas' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' alt='numpy' width='45' height='45'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png' alt='scikit learn' width='55' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' alt='mysql' width='45' height='45'> <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' width='45' height='45'> <img src='https://img.icons8.com/dusk/452/power-bi.png' alt='power bi' width='45' height='45'>
+<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg' alt='python torch' width='45' height='45'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensoflow' width='45' height='45'>
  <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='r language' width='45' height='45'>-->
 ---
 ### How to reach me 📫
