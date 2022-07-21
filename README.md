@@ -15,7 +15,8 @@ My name is Gregory and I'm 21. Information Systems student at [Universidade Fede
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='python' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter noteboook' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' alt='pandas' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' alt='numpy' width='40' height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png' alt='scikit learn' width='50' height='30'> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' alt='mysql' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' width='40' height='40'> <img src='https://img.icons8.com/dusk/452/power-bi.png' alt='powerbi' width='40' height='40'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg' alt='python torch' width='40' height='40'>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensoflow' width='30' height='30'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensoflow' width='40' height='40'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git' width='40' height='40'>
 
 <!-- inserir docker e R -->
 
