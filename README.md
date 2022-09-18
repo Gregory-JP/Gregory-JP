@@ -2,7 +2,8 @@
 
 ### About me 🙂
 
-My name is Gregory and I'm 21. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and everything that can bring good to the world and to people. 🌎🍃
+My name is Gregory and I'm 21. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and 
+everything that can bring good to the world and to people. 🌎🍃
 
 - 🎓 I’m currently studying Information Systems at FURG (3/4)
 - 🌱 I’m currently learning TensorFlow, Pytorch, I'm always trying to improve my data analysis skills.
@@ -33,6 +34,6 @@ My name is Gregory and I'm 21. Information Systems student at [Universidade Fede
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-JP&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-JP&layout=compact&langs_count=7&theme=dark"/>
 
  ---
