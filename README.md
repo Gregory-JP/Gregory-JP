@@ -18,8 +18,6 @@ everything that can bring good to the world and to people. 🌎🍃
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg' alt='python torch' width='40' height='40'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensoflow' width='40' height='40'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git' width='40' height='40'>
-<img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg' alt='git' width='40' height='40'>
-<img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg' alt='git' width='40' height='40'>
 
 <!-- inserir docker e R -->
 
