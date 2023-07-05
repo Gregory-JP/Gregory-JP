@@ -32,6 +32,6 @@ everything that can bring good to the world and to people. 🌎🍃
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-JP&layout=compact&langs_count=7&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-JP&layout=compact&hide_progress=true&theme=dark)
 
  ---
