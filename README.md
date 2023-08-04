@@ -2,7 +2,7 @@
 
 ### About me 🙂
 
-My name is Gregory and I'm 21. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and 
+My name is Gregory and I'm 22. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and 
 everything that can bring good to the world and to people. 🌎🍃
 
 - 🎓 I’m currently studying Information Systems at FURG (3/4)
