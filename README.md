@@ -2,11 +2,11 @@
 
 ### About me 🙂
 
-My name is Gregory and I'm 23. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and 
+My name is Gregory and I'm 24. Information Systems student at [Universidade Federal do Rio Grande](https://www.furg.br/en). Passionate about technologies and 
 everything that can bring good to the world and to people. 🌎🍃
 
-- 🎓 I’m currently studying Information Systems at FURG (4/5).
-- 🛠 My current job is AI Engineer at Compass.UOL.
+- 🎓 I have Bachelor's degree in Information Systems (FURG).
+- 🛠 My current job is Senior AI Engineer at Asaas.
 - 🌱 I’m currently learning LLM and Artificial Intelligence Techniques.
 - 📚 I'm currently reading Storytelling with Data and A Prelude to Logic.
 - ⚡ Fun fact: I'm a great fan of LOTR and The Hobbit, my childhood dream was to be an astronaut and I'm a big fan of Artificial Intelligence, especially Neural Networks.
